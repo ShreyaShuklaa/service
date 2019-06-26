@@ -1,0 +1,36 @@
+problem statement:
+
+Rockwell company is having scope over the world so the the work ad project is very vast.
+Due to growth and increasing competition company needs to inctrease their deployement of the project.
+
+Previously they used private cloud for their It solution which was having certain problems:
+costlier
+time consuming
+sharing of project was bit difficult task 
+memory storage needed
+working in team for one project from all over the world was bit tidious job.
+So the solution was for thre company was using 
+Amazon Web Services Cloud like infrastructure as service.
+Using this service above mentioned all the problems get rectified as all the employee can access their human resource solutions portal from anywhere in the world.
+
+
+Functional Requirement ::
+
+1. Project deployment
+2. Login/logout
+3. Registration
+4. Project maintenance
+5. Repository creation
+6 Cloning of your project 
+7. Sharing project
+
+
+Non Functional Requirement::
+
+1. Maintainability
+2. Reliabilty
+3. Recoverability
+4. Capacity
+5. Servicebility
+6. Scalabiity
+
